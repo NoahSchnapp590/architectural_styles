@@ -1,0 +1,20 @@
+.main{
+    background-color: blanchedalmond;
+    padding: 50px 0 50px 0;
+}
+.zag{
+    text-align: center;
+    font-size: 50px;
+}
+.ant_img{
+    width: 800px;
+    margin-left: 80px;
+}
+.antichny{
+    display: inline;
+}
+.text{
+    width: 95%;
+    font-size: 34px;
+    margin-left: 5%;
+}
